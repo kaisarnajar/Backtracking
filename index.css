@@ -1,0 +1,84 @@
+.header
+{
+	margin-bottom: 0px;
+	margin-top:5px;
+}
+
+.copyright
+{
+	margin-top:0px;
+	margin-bottom: 10px;
+}
+
+.first_photo
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.algorithm
+{
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.code1
+{
+	display: block;
+	color: #660000;
+	font-size: 18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.solve
+{
+	color: #660000;
+	font-size: 17px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.greencolor
+{
+	color:blue;
+}
+
+.leftspace
+{
+	margin-top: 0px;
+	margin-left: 40px;
+}
+
+.margin_below
+{
+	margin-bottom: 0px;
+}
+
+.spacetop
+{
+	margin-top: 5px;
+}
+
+table,th,td
+{
+	border: 1px solid black;
+
+}
+
+table
+{
+	border-collapse: separate;
+}
+
+
+.bluecolor
+{
+	
+	background-color: #cccccc;
+}
+
+.textbig
+{
+	font-size: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
